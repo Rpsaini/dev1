@@ -1,3 +1,7 @@
 This is Developmen  main class
 
 hello india
+
+public void calaculateDaysofWeek()
+{
+}
