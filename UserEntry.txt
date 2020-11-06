@@ -7,3 +7,6 @@ public void calaculateDaysofWeek()
  case 1:
      sunday;
 }
+
+
+String data
