@@ -4,4 +4,6 @@ hello india
 
 public void calaculateDaysofWeek()
 {
+ case 1:
+     sunday;
 }
